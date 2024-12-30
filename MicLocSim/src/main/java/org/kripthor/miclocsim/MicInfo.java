@@ -1,5 +1,6 @@
 package org.kripthor.miclocsim;
-import java.awt.Point;
+
+import java.awt.*;
 
 
 public class MicInfo {

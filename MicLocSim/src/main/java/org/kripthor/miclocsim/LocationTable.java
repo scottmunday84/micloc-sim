@@ -1,15 +1,8 @@
 package org.kripthor.miclocsim;
 
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.Graphics2D;
+import java.awt.*;
 import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collections;
-
-import javax.imageio.ImageIO;
 
 public class LocationTable {
 
